@@ -1,4 +1,4 @@
-**Project Title: ASTRAVA — Discovery and Characterization of Terrestrial Analogs for Lunar and Martian Exploration Using Digital Image Processing**
+**ASTRAVA — Unveiling Lunar and Martian Terrain Signatures on Earth**
 
 ASTRAVA is a Digital Image Processing project that aims to identify and characterize potential terrestrial analog sites on Earth that share measurable surface and terrain characteristics with selected locations on the Moon and Mars. Terrestrial analog environments, including deserts, polar regions, volcanic landscapes, and impact-crater regions, can help researchers study and prepare for the challenges of future lunar base development and Martian exploration.
 
