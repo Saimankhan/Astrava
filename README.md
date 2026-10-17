@@ -1,0 +1,13 @@
+**Project Title: ASTRAVA — Discovery and Characterization of Terrestrial Analogs for Lunar and Martian Exploration Using Digital Image Processing**
+
+ASTRAVA is a Digital Image Processing project that aims to identify and characterize potential terrestrial analog sites on Earth that share measurable surface and terrain characteristics with selected locations on the Moon and Mars. Terrestrial analog environments, including deserts, polar regions, volcanic landscapes, and impact-crater regions, can help researchers study and prepare for the challenges of future lunar base development and Martian exploration.
+
+The project will utilize open-source Earth observation imagery and planetary surface datasets from NASA, ESA, and other relevant space agencies. Selected Earth locations, such as the Atacama Desert, Death Valley, and Haughton Crater, will be analyzed alongside lunar regions such as Shackleton Crater or Malapert Massif and Martian regions such as Jezero Crater or Gale Crater.
+
+Digital image processing techniques, including grayscale transformation, histogram analysis, contrast enhancement, edge detection, and Gray-Level Co-occurrence Matrix (GLCM)-based texture analysis, will be applied to characterize surface patterns. Where suitable data are available, elevation, slope, and terrain roughness will also be examined. False-color composites and vegetation indices will be used for Earth imagery when appropriate spectral data are available.
+
+The extracted image and terrain features will be compared using normalized feature distances and a transparent similarity-scoring method. This analysis will help rank potential terrestrial analog candidates according to their measurable similarities to selected lunar and Martian target regions. Differences in sensor characteristics, spatial resolution, and data availability will be considered during the comparison.
+
+An interactive dashboard will be developed to display original and processed images, feature visualizations, terrain maps, comparison charts, similarity heatmaps, and ranked candidate locations. The system will also provide access to relevant feature tables and comparison results.
+
+The expected outcome is a reproducible, image-based framework for preliminary screening and characterization of potential terrestrial analog sites. ASTRAVA will demonstrate how digital image processing and open planetary datasets can support research into future lunar and Martian exploration. The resulting similarity scores will serve as preliminary indicators rather than definitive evidence of geological equivalence or landing-site suitability.
